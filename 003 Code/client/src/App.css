@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+
+* {
+  font-family: 'Noto Sans KR', 'Noto Sans', sans-serif;
+}
+
+.App {
+  margin: 0px 110px;
+}
+
+.cardList {
+  display: flex;
+  margin: 10px 10px;
+}

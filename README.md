@@ -32,18 +32,18 @@
 
 - ### System Architecture
 
-  - do sth + gitignore 파일 내용 추가 : node_modules, DS_Store
-
-## Case Study
-
-- ### Description
-
-  - 화상회의 한계
+![system architecture](./src/architecture.png)
 
 ## Conclusion
 
-- ### 스터디
+- ### 스터디와 채팅
 
-- ### 채팅
+  - 스터디 모집 및 운영과 인증 기능 구현
+  - 각 스터디 당 스터디원과 대화할 수 있는 채팅 기능 구현
+    ![service page](./src/service%20pages.png)
 
 - ### 화상회의
+
+  - 화상회의를 중개하는 서버를 둘 경우 클라이언트의 부하를 서버쪽으로 가져올 수 있으나, 여건을 고려하여 클라이언트가 모든 부하를 가져오는 p2p 방식으로 구현했다.
+  - 즉, 6명 이상이 화상회의를 하는 경우, 클라이언트에 부하가 심해져 정상적으로 할 수 없다.
+    <img width="300px" src="./src/cuts.gif">
