@@ -8,6 +8,4 @@
 
 ## 캡스톤 디자인 II
 
-- 중간 보고서
-- 기말 보고서
 - 정보기술대학 작품전시 : [display_reports](../src//report/%EC%9E%91%ED%92%88%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%97%84%EC%A7%84%EC%8B%9D%EC%9C%A0%EC%84%B1%ED%98%84%EC%A1%B0%EC%98%81%EB%A1%9D.hwp)
